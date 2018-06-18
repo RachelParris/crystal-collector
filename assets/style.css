@@ -1,0 +1,32 @@
+body {
+    background: #fff;
+  }
+  
+  .computer-choice {
+    background: mistyrose;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+  }
+  
+  .crystals {
+    background: orange;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    margin: 5px;
+  }
+  
+  .sum {
+    height: 20px;
+    width: 20px;
+    border: 1px solid red;
+    color: #000;
+  }
+  
+  .game {
+    height: 20px;
+    width: 100px;
+    border: 1px solid red;
+    color: #000;
